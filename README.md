@@ -1,2 +1,3 @@
 # 30DaysOfPython
-studying...
+
+Reinforcing the basics to build a solid foundation.
