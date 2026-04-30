@@ -6,4 +6,4 @@ Reinforcing the basics to build a solid foundation.
 
 ## Progress
 
-Current day: `Day 11 / 30`
+Current day: `Day 13 / 30`
