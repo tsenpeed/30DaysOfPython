@@ -1,0 +1,17 @@
+countries_data = [
+    {"name": "China", "capital": "Beijing", "languages": ["Chinese"], "population": 1377422166},
+    {"name": "India", "capital": "New Delhi", "languages": ["Hindi", "English"], "population": 1342512706},
+    {"name": "United States", "capital": "Washington, D.C.", "languages": ["English"], "population": 331893745},
+    {"name": "Indonesia", "capital": "Jakarta", "languages": ["Indonesian"], "population": 273523621},
+    {"name": "Pakistan", "capital": "Islamabad", "languages": ["Urdu", "English"], "population": 220892331},
+    {"name": "Brazil", "capital": "Brasilia", "languages": ["Portuguese"], "population": 213993437},
+    {"name": "Nigeria", "capital": "Abuja", "languages": ["English"], "population": 206139587},
+    {"name": "Bangladesh", "capital": "Dhaka", "languages": ["Bengali"], "population": 164689383},
+    {"name": "Russia", "capital": "Moscow", "languages": ["Russian"], "population": 145934462},
+    {"name": "Mexico", "capital": "Mexico City", "languages": ["Spanish"], "population": 128932753},
+    {"name": "Finland", "capital": "Helsinki", "languages": ["Finnish", "Swedish"], "population": 5536146},
+    {"name": "Sweden", "capital": "Stockholm", "languages": ["Swedish"], "population": 10353442},
+    {"name": "Norway", "capital": "Oslo", "languages": ["Norwegian"], "population": 5372191},
+    {"name": "Denmark", "capital": "Copenhagen", "languages": ["Danish"], "population": 5822763},
+    {"name": "Iceland", "capital": "Reykjavik", "languages": ["Icelandic"], "population": 366425},
+]

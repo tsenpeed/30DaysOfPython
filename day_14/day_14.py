@@ -94,9 +94,9 @@ def most_populated_countries(countries_data, number):
 # reduce combines all items into a single value.
 
 # 2
-# A higher order function takes a function as a parameter or returns one.
-# A closure is a nested function that remembers the outer scope.
-# A decorator is a higher order function that wraps another function.
+# higher order function takes a function as a parameter or returns one.
+# closure is a nested function that remembers the outer scope.
+# decorator is a higher order function that wraps another function.
 
 # 3
 numbers = [1, 2, 3, 4, 5]
